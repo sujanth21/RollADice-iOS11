@@ -12,6 +12,7 @@
 		83FE26531F47B8EA00EAC61B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83FE26511F47B8EA00EAC61B /* Main.storyboard */; };
 		83FE26551F47B8EA00EAC61B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83FE26541F47B8EA00EAC61B /* Assets.xcassets */; };
 		83FE26581F47B8EA00EAC61B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83FE26561F47B8EA00EAC61B /* LaunchScreen.storyboard */; };
+		83FE26601F47B95400EAC61B /* American Captain.otf in Resources */ = {isa = PBXBuildFile; fileRef = 83FE265F1F47B95400EAC61B /* American Captain.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		83FE26541F47B8EA00EAC61B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83FE26571F47B8EA00EAC61B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83FE26591F47B8EA00EAC61B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83FE265F1F47B95400EAC61B /* American Captain.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "American Captain.otf"; path = "../../../../../../Downloads/Dice App/American Captain.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				83FE26511F47B8EA00EAC61B /* Main.storyboard */,
 				83FE26541F47B8EA00EAC61B /* Assets.xcassets */,
 				83FE26561F47B8EA00EAC61B /* LaunchScreen.storyboard */,
+				83FE265F1F47B95400EAC61B /* American Captain.otf */,
 				83FE26591F47B8EA00EAC61B /* Info.plist */,
 			);
 			path = "RollADice-iOS11";
@@ -125,6 +128,7 @@
 				83FE26581F47B8EA00EAC61B /* LaunchScreen.storyboard in Resources */,
 				83FE26551F47B8EA00EAC61B /* Assets.xcassets in Resources */,
 				83FE26531F47B8EA00EAC61B /* Main.storyboard in Resources */,
+				83FE26601F47B95400EAC61B /* American Captain.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
